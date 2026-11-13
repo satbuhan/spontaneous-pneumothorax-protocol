@@ -22,7 +22,8 @@ hand-drawn flowcharts or manuscript figures. Existing tools:
 `tenecteplase-alteplase-stemi-protocol`, `cwa-blood-gas-protocol`,
 `ccb-toxicity-protocol`, `haloperidol-adjunct-protocol`,
 `succinylcholine-rocuronium-protocol`, `geriatric-pain-protocol`,
-`metoclopramide-ondansetron-protocol`, `spontaneous-pneumothorax-protocol`
+`metoclopramide-ondansetron-protocol`, `spontaneous-pneumothorax-protocol`,
+`button-battery-protocol`
 (GitHub account: satbuhan). Hub page listing all of them:
 `clinical-algorithm-atlas`.
 
